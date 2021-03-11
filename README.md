@@ -1,2 +1,2 @@
-# dwlab-bwrs-infra
+# bwrs-infra
 Infrastructure for bitwarden_rs
