@@ -1,0 +1,12 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Don't commit CDK env context to SCM (not recommended, only used here since the repo is public.
+# More info: https://docs.aws.amazon.com/cdk/latest/guide/context.html
+cdk.context.json
